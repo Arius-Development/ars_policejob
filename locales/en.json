@@ -2,7 +2,7 @@
 	"clothing_interact_label": "Interact",
 	"armory_interact_label": "Get equipment",
 	"armory_interact_storage_label": "Open storage",
-	"already_have_item": "You already have this item",
+	"already_have_item": "You already have an %s",
 	"no_item_in_storage": "is out of stock",
 	"search_suspect_label": "Search suspect",
 	"handcuff_suspect_label": "Handcuff suspect",
